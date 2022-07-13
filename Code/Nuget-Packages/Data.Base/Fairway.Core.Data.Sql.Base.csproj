@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Version>1.0.0</Version>
+		<Authors>Architecture Team</Authors>
+		<Company>Fairway MC</Company>
+		<Description>v1.0.0 - Sql Data Base Library</Description>
+		<RepositoryUrl></RepositoryUrl>
+		<PackageReleaseNotes>v1.0.0 - Added basic interfaces and models that would be used by the SQL EF library</PackageReleaseNotes>
+	</PropertyGroup>
+
+</Project>

@@ -1,0 +1,115 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "AdventureWorksLT2019Context",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "Vertical.Product.Service.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[BuildVersion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ErrorLog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[Address]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[Customer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[CustomerAddress]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[Product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[ProductCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[ProductDescription]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[ProductModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[ProductModelProductDescription]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[SalesOrderDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[SalesOrderHeader]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[vGetAllCategories]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[SalesLT].[vProductAndDescription]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[SalesLT].[vProductModelCatalogDescription]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[uspLogError]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[uspPrintError]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[ufnGetAllCategories]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[ufnGetCustomerInformation]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[ufnGetSalesOrderStatusText]",
+         "ObjectType": 2
+      }
+   ],
+   "UiHint": "c1c2b61460a7.AdventureWorksLT2019",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": true,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
